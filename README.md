@@ -21,4 +21,4 @@ A compact SMD indicator circuit designed for automated PCB fabrication.
 * *KiCad Project:* Complete schematic (.kicad_sch) and layout (.kicad_pcb)
 * *Fabrication Data:* Gerber RS-274X & Excellon drill files in 01_led_indicators/Gerbers/
 * *Documentation:* Printable PDF schematic in 01_led_indicators/docs/
-*
+
